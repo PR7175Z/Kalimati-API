@@ -8,5 +8,5 @@
 <code>pip install -r requirements.txt</code>
 <h3>Running API server</h3>
 <code>uvicorn main:app --port 2000
-  #port can be changes as per users need
+#port can be changes as per users need
 </code>
